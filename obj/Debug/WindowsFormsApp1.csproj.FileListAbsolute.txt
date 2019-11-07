@@ -1,0 +1,115 @@
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\НОК\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BDEditForm.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditPeopleForm.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TasksForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BDEditForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditPeopleForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TasksForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\NOK\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\NOK\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\NOK\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\NOK\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\NOK\source\repos\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\NOK\source\repos\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BDEditForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditPeopleForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TasksForm.resources
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\NOK\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\operki\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\operki\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\operki\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\operki\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\operki\source\repos\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\operki\source\repos\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\operki\source\repos\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BDEditForm.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditPeopleForm.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TasksForm.resources
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\operki\source\repos\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BDEditForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditPeopleForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TasksForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config

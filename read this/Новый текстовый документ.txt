@@ -1,0 +1,17 @@
+DialogResult dr = new DialogResult ();
+Form2  frm2 = new Form2();
+dr = frm2.ShowDialog();
+if ( dr == DialogResult.OK )
+  MessageBox.Show ("User clicked OK button");
+else if ( dr == DialogResult.Cancel)
+  MessageBox.Show ("User clicked Cancel button");
+
+Button1
+Имя: btnOK
+DialogResult: ОК
+Текст: ОК
+
+Button2
+Имя: btnCancel
+DialogResult: Отмена
+Текст: Отмена

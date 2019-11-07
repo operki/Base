@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{86C5AEC8-042C-4A04-923A-C19C3EA67907}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>База военнослужащих</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>\\Nok-pc-1\отделение кадров\База военнослужащих\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Unc</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>55</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>0</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>20D463ABA449EDEBF698F05D95B82BAD3E753FFB</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>WindowsFormsApp1_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>PerfCenterCpl.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DocumentFormat.OpenXml, Version=2.5.5631.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Tools.Word, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDEditForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BDEditForm.Designer.cs">
+      <DependentUpon>BDEditForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectForm.Designer.cs">
+      <DependentUpon>ConnectForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatabasePeopleMainDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DatabasePeopleMainDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Decliner.cs" />
+    <Compile Include="DialogForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DialogForm.Designer.cs">
+      <DependentUpon>DialogForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditPeopleForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditPeopleForm.Designer.cs">
+      <DependentUpon>EditPeopleForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExcelClassDecline.cs" />
+    <Compile Include="ExcelClassBig.cs" />
+    <Compile Include="ExcelClassShdk.cs" />
+    <Compile Include="ExcelClassShdkShort.cs" />
+    <Compile Include="FlatScrollBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FlatScrollBar.Designer.cs">
+      <DependentUpon>FlatScrollBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlobalSuppressions.cs" />
+    <Compile Include="OrdersDoForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OrdersDoForm.Designer.cs">
+      <DependentUpon>OrdersDoForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PrintForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PrintForm.Designer.cs">
+      <DependentUpon>PrintForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="TasksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TasksForm.Designer.cs">
+      <DependentUpon>TasksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TerminalForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TerminalForm.Designer.cs">
+      <DependentUpon>TerminalForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WordClassAll.cs" />
+    <Compile Include="WordClassCurrent.cs" />
+    <Compile Include="StartForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartForm.Designer.cs">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WordClassFamily.cs" />
+    <Compile Include="WordClassHistory.cs" />
+    <Compile Include="WordClassMemory.cs" />
+    <Compile Include="WordEducationCheckClass.cs" />
+    <Compile Include="WordTemp.cs" />
+    <EmbeddedResource Include="BDEditForm.resx">
+      <DependentUpon>BDEditForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectForm.resx">
+      <DependentUpon>ConnectForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DialogForm.resx">
+      <DependentUpon>DialogForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditPeopleForm.resx">
+      <DependentUpon>EditPeopleForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OrdersDoForm.resx">
+      <DependentUpon>OrdersDoForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PrintForm.resx">
+      <DependentUpon>PrintForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TasksForm.resx">
+      <DependentUpon>TasksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TerminalForm.resx">
+      <DependentUpon>TerminalForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="DatabasePeopleMainDataSet.xsc">
+      <DependentUpon>DatabasePeopleMainDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DatabasePeopleMainDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DatabasePeopleMainDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DatabasePeopleMainDataSet.xss">
+      <DependentUpon>DatabasePeopleMainDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Resources\raleway.ttf" />
+    <EmbeddedResource Include="Resources\roboto.ttf" />
+    <None Include="WindowsFormsApp1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="PerfCenterCpl.ico" />
+    <None Include="Resources\minus40.png" />
+    <None Include="Resources\clear40.png" />
+    <None Include="Resources\plus40.png" />
+    <None Include="Resources\addorder40.png" />
+    <None Include="Resources\plus24.png" />
+    <None Include="Resources\sortleft.png" />
+    <None Include="Resources\sortmore.png" />
+    <None Include="Resources\additional40.png" />
+    <None Include="Resources\resume40.png" />
+    <None Include="Resources\overview40.png" />
+    <None Include="Resources\info40.png" />
+    <None Include="Resources\calendar40.png" />
+    <None Include="Resources\searchfio40.png" />
+    <None Include="Resources\search40.png" />
+    <None Include="Resources\searchpos40.png" />
+    <None Include="Resources\stats40.png" />
+    <None Include="Resources\tasklist40.png" />
+    <None Include="Resources\print20.png" />
+    <None Include="Resources\prev20.png" />
+    <None Include="Resources\play20.png" />
+    <None Include="Resources\pause20.png" />
+    <None Include="Resources\next20.png" />
+    <None Include="Resources\hide30.png" />
+    <None Include="Resources\enter90.png" />
+    <None Include="Resources\refresh40.png" />
+    <None Include="Resources\print40.png" />
+    <None Include="Resources\edit24.png" />
+    <None Include="Resources\delete24.png" />
+    <None Include="Resources\unhide40.png" />
+    <None Include="Resources\save40.png" />
+    <None Include="Resources\delete40.png" />
+    <None Include="Resources\back90.png" />
+    <None Include="Resources\next90.png" />
+    <None Include="Resources\unsun1.png" />
+    <None Include="Resources\unsun.png" />
+    <None Include="Resources\terminal40.png" />
+    <None Include="Resources\next40.png" />
+    <None Include="Resources\fullin30_1.png" />
+    <None Include="Resources\fullin40_1.png" />
+    <None Include="Resources\fulloff40_1.png" />
+    <None Include="Resources\fulloff30_1.png" />
+    <None Include="Resources\next.png" />
+    <None Include="Resources\edit.png" />
+    <None Include="Resources\edit1.png" />
+    <None Include="Resources\minimum.png" />
+    <None Include="Resources\key1.png" />
+    <None Include="Resources\key.png" />
+    <None Include="Resources\user1.png" />
+    <None Include="Resources\user.png" />
+    <None Include="Resources\pass1.png" />
+    <None Include="Resources\pass.png" />
+    <None Include="Resources\help1.png" />
+    <None Include="Resources\help.png" />
+    <None Include="Resources\switch1.png" />
+    <None Include="Resources\delete1.png" />
+    <None Include="Resources\delete.png" />
+    <None Include="Resources\check.png" />
+    <None Include="Resources\check2.png" />
+    <None Include="Resources\check1.png" />
+    <None Include="Resources\sql40.png" />
+    <None Include="Resources\minimum1.png" />
+    <None Include="Resources\link1.png" />
+    <None Include="Resources\link.png" />
+    <None Include="Resources\icon.png" />
+    <None Include="Resources\fulloff40.png" />
+    <None Include="Resources\fulloff30.png" />
+    <None Include="Resources\fullin40.png" />
+    <None Include="Resources\fullin30.png" />
+    <None Include="Resources\fails40.png" />
+    <None Include="Resources\excel40.png" />
+    <None Include="Resources\copy40.png" />
+    <None Include="Resources\connect40.png" />
+    <None Include="Resources\close40.png" />
+    <None Include="Resources\close30.png" />
+    <None Include="Resources\clearall90.png" />
+    <None Include="Resources\clear90.png" />
+    <None Include="Resources\calc40.png" />
+    <None Include="Resources\back40.png" />
+    <None Include="Resources\add40.png" />
+    <None Include="Resources\word40.png" />
+    <None Include="Resources\user_open40.png" />
+    <None Include="Resources\up40.png" />
+    <None Include="Resources\terminal.png" />
+    <None Include="Resources\task40.png" />
+    <None Include="Resources\task_add90.png" />
+    <None Include="Resources\switch0.png" />
+    <None Include="Resources\sun1.png" />
+    <None Include="Resources\sun.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

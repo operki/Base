@@ -1,0 +1,59 @@
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.BDEditForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.EditPeopleForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TasksForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\База военнослужащих.csproj.GenerateResource.Cache
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\База военнослужащих.exe.config
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\База военнослужащих.exe.manifest
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\База военнослужащих.application
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\База военнослужащих.exe
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\bin\Debug\База военнослужащих.pdb
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\База военнослужащих.exe.manifest
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\База военнослужащих.application
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\База военнослужащих.exe
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\WindowsFormsApp1\obj\Debug\База военнослужащих.pdb
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\bin\Debug\База военнослужащих.exe.config
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\База военнослужащих.exe
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\База военнослужащих.pdb
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\bin\Debug\База военнослужащих.exe.manifest
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\bin\Debug\База военнослужащих.application
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\bin\Debug\База военнослужащих.exe
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\bin\Debug\База военнослужащих.pdb
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.BDEditForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.EditPeopleForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.TasksForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\База военнослужащих.csproj.GenerateResource.Cache
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\База военнослужащих.exe.manifest
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\База военнослужащих.application
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.ConnectForm.resources
+C:\Users\operki\source\repos\База военнослужащих\bin\Debug\База военнослужащих.exe.config
+C:\Users\operki\source\repos\База военнослужащих\bin\Debug\База военнослужащих.exe.manifest
+C:\Users\operki\source\repos\База военнослужащих\bin\Debug\База военнослужащих.application
+C:\Users\operki\source\repos\База военнослужащих\bin\Debug\База военнослужащих.exe
+C:\Users\operki\source\repos\База военнослужащих\bin\Debug\База военнослужащих.pdb
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\WindowsFormsApp1.BDEditForm.resources
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\WindowsFormsApp1.ConnectForm.resources
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\WindowsFormsApp1.EditPeopleForm.resources
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\WindowsFormsApp1.StartForm.resources
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\WindowsFormsApp1.TasksForm.resources
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\База военнослужащих.csproj.GenerateResource.Cache
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\База военнослужащих.exe.manifest
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\База военнослужащих.application
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\База военнослужащих.exe
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\База военнослужащих.pdb
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\База военнослужащих.csprojResolveAssemblyReference.cache
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.OrdersDoForm.resources
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\WindowsFormsApp1.OrdersDoForm.resources
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\База военнослужащих.csprojResolveAssemblyReference.cache
+C:\Users\operki\source\repos\База военнослужащих\obj\Debug\WindowsFormsApp1.TerminalForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.TerminalForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.PrintForm.resources
+C:\Users\NOK\Documents\Visual Studio 2015\Projects\База военнослужащих\obj\Debug\WindowsFormsApp1.DialogForm.resources
